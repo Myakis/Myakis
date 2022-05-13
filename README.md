@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frontandrew/)
+
+<!-- [<img align="left" alt="linked-in" src="https://img.shields.io/badge/headhunter-%23ff0000.svg?&style=for-the-badge&logoColor=white" />]() -->
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ydfvnu)
+<!-- 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/myakishevl/) -->
+
+
