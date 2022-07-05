@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I'm a front-end developer. I am currently looking for a job.
+- 👋 Hi, I'm a front-end developer.
 - 🔭 My stack is React /  Redux. Also lately I have been actively practicing and using TypeScript in projects.
 - ⚡My Resume with more details https://frontandrew.ru/resume
 
