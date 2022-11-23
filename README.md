@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I'm a front-end developer.
-- 🔭 My stack is React /  Redux. Also lately I have been actively practicing and using TypeScript in projects.
-- ⚡My Resume with more details https://frontandrew.ru/resume
+- 🔭 My stack is React /  Redux /TypeScript.
+<!-- - ⚡My Resume with more details https://frontandrew.ru/resume -->
 
 <!--
 **Myakis/Myakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
